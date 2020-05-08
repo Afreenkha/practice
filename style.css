@@ -1,0 +1,121 @@
+.top{
+    background-color: blue;
+    width: 100%;
+    height: 70px;
+    text-align: center;
+    color: cornsilk;
+    font-size: medium;
+
+}
+.green{
+    color:lawngreen;
+display: inline;
+}
+.blue{
+    color:blue;
+display: inline;
+}
+.pi{
+    font-size: x-large;
+    color: darkblue;
+    padding-top: 5px;
+}
+.fig{
+    font-size:50px;
+}
+#texty{
+    text-align: center;
+    padding-left: 30px;
+}
+.last1{
+height:30px;
+background-color: blue;
+width:100%;
+color: cornsilk;
+padding-left: 30px;
+}
+.bluebg{
+width: 100%;
+height :300px;
+background-color: blue;
+
+}
+.ty{
+    text-align: center;
+}
+.footer{
+width: 100%;
+height:300px;
+/* background-color: black; */
+
+}
+/* .littles{
+    width: 100%;
+    height:30px;
+    background-color: gray;
+} */
+#lastdiv{
+    width: 100%;
+height: 1000px;
+    background-color: aquamarine;
+}
+.sp{
+    height: 40px;
+    width: 10%;
+}
+/* .divi{
+width: 300px;
+height: 200px;
+background-color:white;
+border: 1px solid black; */
+
+
+
+.card{
+    /* box-shadow: black; */
+    width: 400px;
+    height: 200px;
+    display:inline-block;
+    margin-left: auto;
+    margin-top: 15px;
+    text-align: center;
+}
+.dop{
+    width: 100%;
+    height: 30%;
+    background-color:white;
+border: 2px solid black;
+color: black;
+margin-top: 20px;
+
+    
+}
+marquee{
+    height: 40px;
+    width: 100%;
+    background-color: blue;
+    color: white;
+}
+tr th {
+    margin-left: auto;
+    text-align: center;
+    padding: 10px;
+}
+tr td{
+    text-align: center;
+    color: aliceblue;
+    font-size: larger;
+    padding: 10px;
+    margin-left: 4px;
+}
+#bigpic{
+    /* background-image: url("sy1.jpeg"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+#outbox{
+    width:50%;
+    height:50%;
+}
